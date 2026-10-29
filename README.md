@@ -22,11 +22,10 @@ The project was completed as part of a data analysis assignment.
 
 ## 📂 Project Files
 
-- `car_price_dataset.csv` — Dataset containing car-related information.
 - `Assignment_1 questions Car Price Dataset.pdf` — Assignment questions.
+- 'answers_to_question.py' - Answer of Questions
 - `README.md` — Project documentation.
 
-*File names above should match the files actually present in your repository.*
 
 ## 🚀 How to Run the Project
 
