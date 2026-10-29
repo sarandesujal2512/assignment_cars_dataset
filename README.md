@@ -1,123 +1,62 @@
-# 🚗 Car Price Dataset Analysis Using Python
+# Car Price Dataset Analysis
 
 ## 📌 Project Overview
 
-This project focuses on analyzing a car price dataset using Python and its popular data analysis libraries.
+This project focuses on analyzing a car price dataset using Python. It explores car-related data to answer questions, identify pricing patterns, and extract useful insights from the dataset.
 
-The main objective of this project is to explore car-related data, identify pricing trends, understand the relationship between different car features and their prices, and answer questions using Python.
-
-This project was completed as part of a Python Data Analysis assignment.
+The project was completed as part of a data analysis assignment.
 
 ## 🎯 Objectives
 
-- Perform Exploratory Data Analysis (EDA) on the car price dataset.
-- Understand the distribution of car prices.
+- Explore and understand the car price dataset.
+- Perform data analysis using Python.
 - Identify the car model with the highest price.
-- Analyze different features affecting car prices.
-- Extract meaningful insights from the dataset using Python.
+- Answer questions based on the dataset.
+- Practice Python programming and data analysis skills.
 
-## 📂 Project Structure
+## 🛠️ Tools & Technologies
 
-```text
-Car-Price-Dataset-Analysis/
-│
-├── Assignment_1 questions Car Price Dataset.pdf
-├── car_price_dataset.csv
-├── Car_Price_Analysis.ipynb
-└── README.md
-```
+- **Python** — Programming language
+- **Pandas** — Data manipulation and analysis
+- **Jupyter Notebook / Python IDE** — Running Python code
 
-## 🛠️ Technologies Used
+## 📂 Project Files
 
-- **Python** – Programming language
-- **Pandas** – Data manipulation and analysis
-- **NumPy** – Numerical computations
-- **Matplotlib** – Data visualization
-- **Seaborn** – Statistical data visualization
-- **Jupyter Notebook** – Interactive Python environment
+- `car_price_dataset.csv` — Dataset containing car-related information.
+- `Assignment_1 questions Car Price Dataset.pdf` — Assignment questions.
+- `README.md` — Project documentation.
 
-## 📊 Dataset Description
+*File names above should match the files actually present in your repository.*
 
-The dataset contains information about different cars and their prices.
+## 🚀 How to Run the Project
 
-The dataset is provided in CSV format and is used to perform data analysis and answer the assignment questions.
+1. Clone or download this repository.
+2. Make sure Python is installed on your computer.
+3. Install Pandas:
 
-Dataset file: `car_price_dataset.csv`
+   ```bash
+   pip install pandas
+   ```
 
-## 🔍 Analysis Performed
+4. Open your Python file or notebook.
+5. Load the CSV dataset and run the analysis.
 
-The following analysis is performed using Python:
+## 📊 Project Outcomes
 
-1. Data loading and inspection
-2. Data cleaning and preprocessing
-3. Exploratory Data Analysis (EDA)
-4. Car price distribution analysis
-5. Identification of the highest-priced car model
-6. Analysis of car features and their relationship with prices
-7. Data visualization and insights generation
-
-## 💻 How to Run the Project
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/Car-Price-Dataset-Analysis.git
-```
-
-### Step 2: Navigate to the Project Folder
-
-```bash
-cd Car-Price-Dataset-Analysis
-```
-
-### Step 3: Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### Step 4: Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the `Car_Price_Analysis.ipynb` notebook and run the cells.
-
-## 📈 Key Insights
-
-The project answers multiple questions related to the car price dataset.
-
-Some of the key analysis areas include:
-
-- Highest-priced car model
-- Distribution of car prices
-- Relationship between car features and prices
-- Comparison of different car models
-- Important patterns and trends in car pricing
-
-The findings are derived from the dataset using Python.
-
-## 📚 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-- Python programming for data analysis
-- Working with CSV datasets
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Data visualization
-- Using Pandas and NumPy
-- Answering analytical questions using Python
+This project demonstrates basic data analysis skills, working with CSV files, answering data-related questions, and extracting information from a car price dataset.
 
 ## 👨‍💻 Author
 
 **Sujal Sarande**
 
-BCA Science Graduate
+- **GitHub:** [sarandesujal2512](https://github.com/sarandesujal2512)
+- **Email:** sujalsarande25@gmail.com
+- **Phone:** +91 8625077209
 
-Interested in Python, Data Analytics, and Data Science.
+## 🔗 Repository
+
+[View the Car Price Dataset Analysis Project](https://github.com/sarandesujal2512/assignment_cars_dataset)
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository!
+*Thank you for visiting my project!*
